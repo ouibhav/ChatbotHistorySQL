@@ -1,0 +1,42 @@
+
+### General Knowledge
+1. The Earth revolves around the Sun in approximately 365.25 days.
+2. The Great Wall of China is the longest wall in the world, spanning over 13,000 miles.
+3. The capital city of France is Paris, known as the "City of Light."
+
+### Science and Technology
+1. Newton's three laws of motion are foundational principles in physics.
+2. Machine Learning is a subset of Artificial Intelligence focused on building systems that can learn from data.
+3. Water boils at 100 degrees Celsius at sea level but the boiling point decreases at higher altitudes.
+
+### Programming Examples
+1. **Python Code Sample:**
+   ```python
+   def greet(name):
+       return f"Hello, {name}!"
+   print(greet("Vaibhav"))
+   ```
+2. **SQL Query:**
+   ```sql
+   SELECT * FROM employees WHERE department = 'Sales';
+   ```
+3. **HTML Example:**
+   ```html
+   <h1>Welcome to My Website</h1>
+   <p>This is a sample paragraph.</p>
+   ```
+
+### Literature Quotes
+1. "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." - *Pride and Prejudice* by Jane Austen
+2. "To be, or not to be, that is the question." - *Hamlet* by William Shakespeare
+3. "The only thing we have to fear is fear itself." - Franklin D. Roosevelt
+
+### Conversational Phrases
+1. How can I assist you today?
+2. What are your plans for the weekend?
+3. Thank you for your feedback! It helps us improve.
+
+### Creative Writing
+1. The golden rays of the setting sun painted the sky in hues of orange and pink, casting long shadows over the serene lake.
+2. The futuristic city buzzed with flying cars and holographic advertisements, yet a sense of nostalgia lingered in the cobblestone streets of the old town.
+3. Beneath the dense canopy of the rainforest, life thrived in vibrant colors and rhythmic sounds, a testament to nature's resilience.
